@@ -1,5 +1,5 @@
-# Futbolito
-Juego del Futbolito  
-Integrantes:  
-Jesús Clemente Carmona Castillo  
-José Manuel Rosiles Malagón
+# FuchoPro
+ 
+#Integrantes:  
+-> Salvador Mendez Moreno
+-> Luis Diego Martinez Lopez
